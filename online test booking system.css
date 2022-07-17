@@ -1,0 +1,49 @@
+div{
+    border-radius: 13px;
+    width: 50%;
+    border:2px solid pink;
+    position: absolute;
+    top:40%;
+    left:30%;    
+}
+
+#q{
+    margin-left: 700px;
+    color:rgb(109, 199, 20);
+}
+#r{
+    color: red;
+}
+#s{
+    margin-left: 350px;
+}
+#t{
+    margin-left: 200px ;
+}
+#u{
+    margin-left: 273px;
+}
+#v{
+    margin-left: 186px;
+}
+span{
+    border-style: solid;
+    width:150ox;
+    height:30px;
+    text-align:center;
+    padding:5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+a{
+    margin-left: 500px;
+}
+#p{
+    color: brown;
+    text-align: center;
+}
+#w{
+    color:rgb(109, 199, 20);
+}
+hr{
+    border-top: 2px solid rgb(99, 8, 8);
+}
